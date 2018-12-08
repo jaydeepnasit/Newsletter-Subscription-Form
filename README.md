@@ -1,7 +1,6 @@
 # Newsletter-Subscription-Form
 
 Email Subscribers &amp; Newsletters Source Code [ Build in PHP, Jquery &amp; Ajax ]
-This Project Used(PHP,  MYSQL,  AJAX,  JQUERY, HTML, CSS)
 
 How To Use/Run This Code :-
 1. Download Project and Extract Files
