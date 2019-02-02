@@ -17,6 +17,7 @@ class Config{
 
 	public function htmlfilter($form_data){
 		$form_data = trim(stripcslashes(htmlspecialchars($form_data)));
+		$form_data = mysqli_real_escape_string($this->con, trim(strip_tags($form_data)));
 		return $form_data;
 	}
 
